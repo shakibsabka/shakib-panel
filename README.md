@@ -13,3 +13,6 @@ apt install -y git
 git clone https://github.com/shakibsabka/shakib-panel.git
 cd shakib-panel
 bash install.sh
+## Credits
+
+Made with ❤️ by [Shakib](https://github.com/shakibsabka) — please keep credit when using this project.
