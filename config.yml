@@ -1,0 +1,9 @@
+uuid: YOUR-NODE-UUID
+token_id: YOUR-TOKEN-ID
+token: YOUR-TOKEN-SECRET
+api:
+  host: 0.0.0.0
+  port: 8080
+panel:
+  url: https://yourdomain.com
+  ssl: true
