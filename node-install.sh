@@ -19,7 +19,7 @@ api:
   host: 0.0.0.0
   port: 8080
 panel:
-  url: https://yourdomain.com
+  url: https://rdpserver2025.42web.io
   ssl: true
 EOL
 
